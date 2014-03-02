@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world_2">Hello by AndroidWorld.it!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_cambia_testo_text">Cambia testo</string>
+    <string name="btn_avvia_browser_text">Avvia browser</string>
+
+</resources>
